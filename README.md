@@ -1,5 +1,7 @@
 <img src="images/GitHub%20Copilot%20Pot%20of%20Gold.png" alt="GitHub Copilot Pot of Gold" width="600"/>
 
+Last updated 2025-09-03
+
 # GitHub-Copilot-Jumpstart - Resources for hackers
 Consider this your GitHub Copilot pot of gold to help you quickly get started using GitHub Copilot.
 
