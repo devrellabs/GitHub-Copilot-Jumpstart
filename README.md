@@ -28,13 +28,15 @@ From [GitHub Copilot documentation](https://docs.github.com/en/copilot)
     + [Customization library - GitHub Docs](https://docs.github.com/en/copilot/tutorials/customization-library) - Discover a curated collection of customizations, including custom instructions and prompt files (VS Code only), to enhance your GitHub Copilot experience.
     + [Introducing the Awesome GitHub Copilot Customizations repo](https://devblogs.microsoft.com/blog/introducing-awesome-github-copilot-customizations-repo) - **The Awesome Copilot Repo** is a community-driven resource with custom instructions, reusable prompts, and custom chat modes that helps you get consistent AI assistance. In other words, Awesome Copilot helps you get the most out of GitHub Copilot by letting you tailor it to your needs. And even better, the available content in the Awesome Copilot repo will grow and grow as we encourage folks to contribute instructions, prompts, and chat modes they find useful!
   + [Personal custom instructions](https://docs.github.com/en/enterprise-cloud@latest/copilot/how-tos/configure-custom-instructions/add-personal-instructions) - Receive chat responses that are customized to your personal preferences, across your conversations on the GitHub website. For example, you can choose to always have Copilot Chat respond in a preferred language or with a particular style.
-
 + [Using images in Copilot Chat](https://docs.github.com/en/enterprise-cloud@latest/copilot/how-tos/use-chat/use-chat-in-ide#using-images-in-copilot-chat) - You can attach images to your chat prompts and then ask Copilot about the images. For example, you can attach:
   + A mockup of the user interface for an application and ask Copilot to generate the code.
   + A flowchart and ask Copilot to describe the processes shown in the image.
   + A screenshot of a web page and ask Copilot to generate HTML for a similar page.
-
 + [About GitHub Copilot coding agent](https://docs.github.com/en/enterprise-cloud@latest/copilot/concepts/coding-agent/coding-agent) - With Copilot coding agent, GitHub Copilot can work independently in the background to complete tasks, just like a human developer. You can assign GitHub issues to Copilot, or ask Copilot to create a pull request.
++ [About Model Context Protocol (MCP)](https://docs.github.com/en/copilot/concepts/about-mcp) - Model Context Protocol (MCP) is a protocol that allows you to extend the capabilities of GitHub Copilot by integrating it with other systems. You can use MCP to extend the capabilities of Copilot Chat by integrating it with a wide range of existing tools and services. For example:
+  + The GitHub MCP server allows you to use Copilot Chat in your IDE to perform tasks on GitHub. 
+  + Use the Playwright MCP Server for browsing the internet. Enables LLMs to interact with web pages through structured accessibility snapshots. Useful for web navigation and form-filling, data extraction from structured content, automated testing driven by LLMs, and general-purpose browser interaction for agents.
+  + The Azure MCP Server allows you to manage Azure resources, enabling declarative provisioning and integration with AI workflows.
 
 ## GitHub Samples
 
