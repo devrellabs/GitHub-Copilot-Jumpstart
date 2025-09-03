@@ -35,3 +35,7 @@ From [GitHub Copilot documentation](https://docs.github.com/en/copilot)
   + A screenshot of a web page and ask Copilot to generate HTML for a similar page.
 
 + [About GitHub Copilot coding agent](https://docs.github.com/en/enterprise-cloud@latest/copilot/concepts/coding-agent/coding-agent) - With Copilot coding agent, GitHub Copilot can work independently in the background to complete tasks, just like a human developer. You can assign GitHub issues to Copilot, or ask Copilot to create a pull request.
+
+## GitHub Samples
+
+Need some additional inspiration? Check out https://github.com/github-samples. We provide a variety of sample projects and walkthroughs to help our community learn and experiment with GitHub. Explore our repositories to find examples and walkthroughs across different programming languages and frameworks and areas of the GitHub platform.
